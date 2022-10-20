@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627109326930",
+    "project_id": "smart-water-tank-e0818",
+    "storage_bucket": "smart-water-tank-e0818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627109326930:android:e5a761ca9086104b5a2f8b",
+        "android_client_info": {
+          "package_name": "com.example.smart_water_tank_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627109326930-mid8ju6rqcn29vgn29fnaa2mcq195822.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8_omJ4_4DViHDOlgmFw_h_dm5wul1DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627109326930-mid8ju6rqcn29vgn29fnaa2mcq195822.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

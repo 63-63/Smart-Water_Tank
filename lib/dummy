@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+import 'package:water_check/colors.dart';
+import 'package:water_check/widgets/reusable_card.dart';
+
+class DashboardScreen extends StatelessWidget {
+  const DashboardScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Theme.of(context).primaryColor,
+        elevation: 0.0,
+        title: const Text('Water Checker'),
+      ),
+
+
+
+        ],
+      ),
+    );
+  }
+}
